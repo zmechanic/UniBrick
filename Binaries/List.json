@@ -1,8 +1,44 @@
-[
-  {
-    "id": "0000000000000000",
-    "features": [10,20,30],
-    "name": "",
-    "info": ""
-  }
-]
+{
+  groups: [
+    {
+      "id": "abc",
+      "name": "Test Group ABC",
+      "info": "This is a test group ABC"
+    },
+    {
+      "id": "def",
+      "name": "Test Group DEF",
+      "info": "This is a test group DEF"
+    }
+  ],
+  items: [
+    {
+      "id": "0000000000000000",
+      "groupId": "abc"
+      "features": [10,20,30],
+      "name": "Test binary 0",
+      "info": "bla-bla-bla"
+    },
+    {
+      "id": "0000000000000001",
+      "groupId": "abc"
+      "features": [10,20,30],
+      "name": "Test binary 1",
+      "info": "bla-bla-bla"
+    },
+    {
+      "id": "0000000000000002",
+      "groupId": "def"
+      "features": [20,30],
+      "name": "Test binary 2",
+      "info": "bla-bla-bla"
+    },
+    {
+      "id": "0000000000000003",
+      "groupId": "def"
+      "features": [20,30],
+      "name": "Test binary 3",
+      "info": "bla-bla-bla"
+    }
+  ]
+}
