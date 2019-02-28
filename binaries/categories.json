@@ -1,0 +1,12 @@
+[
+	{
+		"id": "abc",
+		"name": "Test Group ABC",
+		"info": "This is a test group ABC"
+	},
+	{
+		"id": "def",
+		"name": "Test Group DEF",
+		"info": "This is a test group DEF"
+	}
+]
