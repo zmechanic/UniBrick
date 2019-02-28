@@ -1,5 +1,5 @@
 {
-  "groups": [
+  "categories": [
     {
       "id": "abc",
       "name": "Test Group ABC",
@@ -14,28 +14,28 @@
   "items": [
     {
       "id": "0000000000000000",
-      "groupId": "abc",
+      "categoryId": "abc",
       "features": [10,20,30],
       "name": "Test binary 0",
       "info": "bla-bla-bla"
     },
     {
       "id": "0000000000000001",
-      "groupId": "abc",
+      "categoryId": "abc",
       "features": [10,20,30],
       "name": "Test binary 1",
       "info": "bla-bla-bla"
     },
     {
       "id": "0000000000000002",
-      "groupId": "def",
+      "categoryId": "def",
       "features": [20,30,40],
       "name": "Test binary 2",
       "info": "bla-bla-bla"
     },
     {
       "id": "0000000000000003",
-      "groupId": "def",
+      "categoryId": "def",
       "features": [20,30,40],
       "name": "Test binary 3",
       "info": "bla-bla-bla"
