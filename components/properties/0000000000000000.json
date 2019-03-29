@@ -26,8 +26,9 @@
 			"id": 1,
 			"categoryId": "general",
 			"type": "byte",
+			"display": "buttons"
 			"default": 20,
-			"selection":
+			"values":
 			[
 				{ "value": 10, "name": "aaa" },
 				{ "value": 20, "name": "bbb" },
