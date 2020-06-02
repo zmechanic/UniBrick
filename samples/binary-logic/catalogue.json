@@ -5,16 +5,20 @@
 	[
 		{
 			"title": "Direct signal",
+			"complexity": "Basic",
 			"description": "LED turns ON, when button pressed. Led goes OFF when you let of the button.",
 			"image": "https://s3.amazonaws.com/uifaces/faces/twitter/sebashton/128.jpg",
 			"price": "⭐⭐⭐",
+			"color": "green",
 			"tags": ["signal", "button", "led", "lamp"]
 		},
 		{
 			"title": "Invert signal",
+			"complexity": "Basic",
 			"description": "Inverts binary signal. LED is ON, but press a button, and LED will turn OFF.",
 			"image": "https://s3.amazonaws.com/uifaces/faces/twitter/sebashton/128.jpg",
 			"price": "⭐⭐⭐",
+			"color": "yellow",
 			"tags": ["inverter", "button", "led", "lamp"]
 		}
 	]
