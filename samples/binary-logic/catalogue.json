@@ -1,0 +1,21 @@
+{
+	"time_stamp": "2020-06-01T00:00:00.000Z",
+	"name: "Binary Logic"
+	"samples":
+	[
+		{
+			"title": "Direct signal",
+			"description": "LED turns ON, when button pressed. Led goes OFF when you let of the button.",
+			"image": "https://s3.amazonaws.com/uifaces/faces/twitter/sebashton/128.jpg",
+			"price": "⭐⭐⭐",
+			"tags": ["signal", "button", "led", "lamp"]
+		},
+		{
+			"title": "Invert signal",
+			"description": "Inverts binary signal. LED is ON, but press a button, and LED will turn OFF.",
+			"image": "https://s3.amazonaws.com/uifaces/faces/twitter/sebashton/128.jpg",
+			"price": "⭐⭐⭐",
+			"tags": ["inverter", "button", "led", "lamp"]
+		},
+	]
+}
