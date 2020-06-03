@@ -7,14 +7,14 @@
 			"description": "Make your brick emit light",
 			"image": "https://s3.amazonaws.com/uifaces/faces/twitter/sebashton/128.jpg",
 			"extra": "⭐⭐⭐",
-			"filter: ["led"]
+			"filter": "led"
 		},
 		{
 			"title": "Lamp",
 			"description": "Make your brick emit light",
 			"image": "https://s3.amazonaws.com/uifaces/faces/twitter/sebashton/128.jpg",
 			"extra": "⭐⭐⭐",
-			"filter: ["led", "lamp"]
+			"filter": "led"
 		}
 	]
 }
