@@ -3,18 +3,20 @@
 	"keywords":
 	[
 		{
-			"title": "LED",
+			"term": ["led", "lamp", "light"],
+			"title": "Light",
 			"description": "Make your brick emit light",
 			"image": "https://s3.amazonaws.com/uifaces/faces/twitter/sebashton/128.jpg",
 			"extra": "⭐⭐⭐",
-			"filter": "led"
+			"tag": "led"
 		},
 		{
-			"title": "Lamp",
-			"description": "Make your brick emit light",
+			"term": ["sound", "buzz", "beep"],
+			"title": "Sound",
+			"description": "Make your brick emit sound",
 			"image": "https://s3.amazonaws.com/uifaces/faces/twitter/sebashton/128.jpg",
 			"extra": "⭐⭐⭐",
-			"filter": "led"
+			"tag": "sound"
 		}
 	]
 }
