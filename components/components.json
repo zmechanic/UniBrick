@@ -19,7 +19,7 @@
 		{
 			"id": "5A4D434800000000",
 			"categoryId": "abc",
-			"hardwareId": "5A1E952100000000",
+			"hardwareId": "5A1E942200000000",
 			"features": [10,20,30],
 			"name": "Test binary 0",
 			"info": "bla-bla-bla",
@@ -28,7 +28,7 @@
 		{
 			"id": "5A4D434800000001",
 			"categoryId": "abc",
-			"hardwareId": "5A1E952100000000",
+			"hardwareId": "5A1E942200000000",
 			"features": [10,20,30],
 			"name": "Test binary 1",
 			"info": "bla-bla-bla",
@@ -37,7 +37,7 @@
 		{
 			"id": "5A4D434800000002",
 			"categoryId": "def",
-			"hardwareId": "5A1E952100000000",
+			"hardwareId": "5A1E942200000000",
 			"features": [20,30,40],
 			"name": "Test binary 2",
 			"info": "bla-bla-bla"
@@ -45,7 +45,7 @@
 		{
 			"id": "5A4D434800000003",
 			"categoryId": "def",
-			"hardwareId": "5A1E952100000000",
+			"hardwareId": "5A1E942200000000",
 			"features": [20,30,40],
 			"name": "Test binary 3",
 			"info": "bla-bla-bla"
