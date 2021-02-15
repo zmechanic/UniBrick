@@ -14,7 +14,7 @@
 		{
 			"id": 10,
 			"categoryId": "general",
-			"display": "numeric",
+			"display": "integer",
 			"min": 0,
 			"max": 9,
 			"default": 0,
@@ -25,7 +25,7 @@
 		{
 			"id": 20,
 			"categoryId": "general",
-			"display": "numeric",
+			"display": "integer",
 			"min": 0,
 			"max": 9,
 			"default": 0,

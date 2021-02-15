@@ -14,7 +14,7 @@
 		{
 			"id": 1,
 			"categoryId": "general",
-			"display": "numeric",
+			"display": "decimal",
 			"min": 0.1,
 			"max": 60000,
 			"default": 1,
@@ -37,19 +37,19 @@
 		{
 			"id": 10,
 			"categoryId": "general",
-			"display": "numeric",
+			"display": "decimal",
 			"name": "Frequency High Part"
 		},
 		{
 			"id": 11,
 			"categoryId": "general",
-			"display": "numeric",
+			"display": "decimal",
 			"name": "Frequency"
 		},
 		{
 			"id": 12,
 			"categoryId": "general",
-			"display": "numeric",
+			"display": "decimal",
 			"name": "Frequency Fraction"
 		}
 	]
