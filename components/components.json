@@ -36,6 +36,15 @@
 		},
 		{
 			"id": "5A4D434800000002",
+			"categoryId": "abc",
+			"hardwareId": "5A1E942200000000",
+			"features": [10,20,30],
+			"name": "Counter",
+			"info": "Counts impulses and generates overflow impulse",
+			"icon": "https://img.icons8.com/color/48/000000/restart.png"
+		},
+		{
+			"id": "5A4D434800000002",
 			"categoryId": "def",
 			"hardwareId": "5A1E942200000000",
 			"features": [20,30,40],
