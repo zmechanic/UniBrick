@@ -1,56 +1,31 @@
 {
-	"time_stamp": "2021-02-11T00:00:00.000Z",
+	"time_stamp": "2021-08-22T00:00:00.000Z",
 	"categories":
 	[
 		{
-			"id": "abc",
+			"id": "general",
 			"name": "Test Group ABC",
 			"info": "This is a test group ABC",
 			"icon": "data:image/png;base64,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"
-		},
-		{
-			"id": "def",
-			"name": "Test Group DEF",
-			"info": "This is a test group DEF"
 		}
 	],
-	"components":
+	"properties":
 	[
 		{
-			"id": "5A4D434800000000",
-			"categoryId": "abc",
-			"hardwareId": "5A1E942200000000",
-			"features": [10,20,30],
-			"name": "Null component",
-			"info": "This component does nothing useful",
+			"id": 1,
+			"categoryId": "general",
+			"display": "buttons",
+			"min": 10,
+			"max": 16,
+			"default": 10,
+			"values":
+			[
+				{ "value": 10, "name": "DEC" },
+				{ "value": 16, "name": "HEX" }
+			],
+			"name": "Format",
+			"info": "Display format DEC or HEX",
 			"icon": "data:image/png;base64,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"
-		},
-		{
-			"id": "5A4D434800000001",
-			"categoryId": "abc",
-			"hardwareId": "5A1E942200000000",
-			"features": [10,20,30],
-			"name": "Generator",
-			"info": "Generates continuous sequence of impulses",
-			"icon": "https://img.icons8.com/color/48/000000/restart.png"
-		},
-		{
-			"id": "5A4D434800000002",
-			"categoryId": "abc",
-			"hardwareId": "5A1E942200000000",
-			"features": [10,20,30],
-			"name": "Counter",
-			"info": "Counts impulses and generates overflow impulse",
-			"icon": "https://img.icons8.com/color/48/000000/restart.png"
-		},
-		{
-			"id": "5A4D434800000100",
-			"categoryId": "abc",
-			"hardwareId": "5A1E942200000000",
-			"features": [10,20,30],
-			"name": "Display",
-			"info": "Display",
-			"icon": "https://img.icons8.com/color/48/000000/restart.png"
 		}
 	]
 }
