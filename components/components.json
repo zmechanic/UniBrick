@@ -49,7 +49,7 @@
 			"hardwareId": "5A1E942200000000",
 			"features": [10,20,30],
 			"name": "Display",
-			"info": "Display",
+			"info": "Indicates numeric value",
 			"icon": "https://img.icons8.com/color/48/000000/restart.png"
 		}
 	]
