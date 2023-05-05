@@ -56,7 +56,7 @@
 		{
 			"id": "5A4D434890000100",
 			"categoryId": "web_hooks",
-			"hardwareId": "5A4D434890000100",
+			"hardwareId": "5A1E942200000000",
 			"features": [10,20,30],
 			"name": "Web Hook",
 			"info": "Post numeric value to cloud and gets value back",
